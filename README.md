@@ -1,4 +1,3 @@
 # hello-world
-Dieses Repository dient zum Üben des GitHub-Flows.
 
-Emir Brankovic 1995.
+Emir Brankovic 1995, and I am 29 Years old.
